@@ -2,7 +2,7 @@
 title: Using the Editor
 ---
 
-The builtin editor is a quick way to view and edit the source code of a hyperdrive.
+The built-in editor is a quick way to view and edit the source code of a hyperdrive.
 
 To open the editor:
 
